@@ -9,7 +9,7 @@ export const FormikAbstractation = () => {
 
   return (
     <div>
-      <h1>Formik Components</h1>
+      <h1>Formik Abstraction</h1>
 
       <Formik
         initialValues={{
